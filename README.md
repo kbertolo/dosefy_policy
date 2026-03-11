@@ -2,4 +2,4 @@
 
 You can read the DoseFY privacy policy here:
 
-https://seulink.com/privacy
+https://kbertolo.github.io/dosefy_policy/
